@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is thr github practice
+This is the github practice
 
 ```{r}
 2+2
