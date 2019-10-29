@@ -1,0 +1,15 @@
+---
+title: "Github example"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is thr github practice
+
+```{r}
+2+2
+```
+
